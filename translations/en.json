@@ -1,0 +1,12 @@
+{
+  "home": {
+    "title": "Welcome to Lingva",
+    "description": "Sample translations for GitHub integration testing."
+  },
+  "cart": {
+    "empty": "Your cart is empty"
+  },
+  "preserve": {
+    "sentinel": "Keep this unrelated key unchanged."
+  }
+}
