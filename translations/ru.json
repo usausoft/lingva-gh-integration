@@ -8,5 +8,8 @@
   },
   "preserve": {
     "sentinel": "Этот независимый ключ должен остаться без изменений."
+  },
+  "integration": {
+    "requestSplit": "Проверка разделения запросов staging facef02"
   }
 }
