@@ -8,5 +8,8 @@
   },
   "preserve": {
     "sentinel": "Keep this unrelated key unchanged."
+  },
+  "integration": {
+    "capacityProbe": "Staging batched-read regression b17e4a0"
   }
 }
