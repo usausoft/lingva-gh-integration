@@ -8,5 +8,8 @@
   },
   "preserve": {
     "sentinel": "Keep this unrelated key unchanged."
+  },
+  "integration": {
+    "productionProof": "Production integration proof 64a0b71"
   }
 }

@@ -8,5 +8,8 @@
   },
   "preserve": {
     "sentinel": "Этот независимый ключ должен остаться без изменений."
+  },
+  "integration": {
+    "productionProof": "Проверка production-интеграции 64a0b71"
   }
 }
