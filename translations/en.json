@@ -8,5 +8,8 @@
   },
   "preserve": {
     "sentinel": "Keep this unrelated key unchanged."
+  },
+  "integration": {
+    "requestSplit": "Staging capture and execution proof facef02"
   }
 }
