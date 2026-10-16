@@ -8,5 +8,10 @@
   },
   "preserve": {
     "sentinel": "Этот независимый ключ должен остаться без изменений."
+  },
+  "ciBackgroundJobs": {
+    "prod": {
+      "rune84f92f9e6": "Synthetic durable worker proof ru e84f92f9e6"
+    }
   }
 }
