@@ -8,5 +8,10 @@
   },
   "preserve": {
     "sentinel": "Keep this unrelated key unchanged."
+  },
+  "ciBackgroundJobs": {
+    "dev": {
+      "runa76910c5ad": "Synthetic durable worker proof en a76910c5ad"
+    }
   }
 }
