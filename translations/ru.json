@@ -8,5 +8,8 @@
   },
   "preserve": {
     "sentinel": "Этот независимый ключ должен остаться без изменений."
+  },
+  "ssm": {
+    "proof_848f054d": "Synthetic SSM worker stage ru"
   }
 }
