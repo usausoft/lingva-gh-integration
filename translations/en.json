@@ -8,5 +8,8 @@
   },
   "preserve": {
     "sentinel": "Keep this unrelated key unchanged."
+  },
+  "gateway": {
+    "proof_ffdd1d83": "Synthetic branded worker dev"
   }
 }
