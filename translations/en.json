@@ -8,5 +8,8 @@
   },
   "preserve": {
     "sentinel": "Keep this unrelated key unchanged."
+  },
+  "ssm": {
+    "proof_f2cd46d6": "Synthetic SSM worker dev en"
   }
 }
