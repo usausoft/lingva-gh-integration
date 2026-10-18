@@ -8,5 +8,8 @@
   },
   "preserve": {
     "sentinel": "Этот независимый ключ должен остаться без изменений."
+  },
+  "gateway": {
+    "proof_6220aeb3": "Synthetic branded worker dev ru"
   }
 }
