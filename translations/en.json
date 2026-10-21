@@ -8,5 +8,8 @@
   },
   "preserve": {
     "sentinel": "Keep this unrelated key unchanged."
+  },
+  "hero": {
+    "title": "HERRROOO"
   }
 }
