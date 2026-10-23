@@ -8,5 +8,8 @@
   },
   "preserve": {
     "sentinel": "Keep this unrelated key unchanged."
+  },
+  "stageAcceptance": {
+    "0e86e555d131436bb3225e9ceee422d5": "Disposable stage worker acceptance"
   }
 }
